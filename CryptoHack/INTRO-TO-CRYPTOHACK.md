@@ -20,7 +20,7 @@ The challenge solve :
 
 ```python
 ords = [99, 114, 121, 112, 116, 111, 123, 65, 83, 67, 73, 73, 95, 112, 114, 49, 110, 116, 52, 98, 108, 51, 125]
-
+# Doing one line for loop into each character to convert it from ASCII to the character representation 
 chars = ''.join(chr(o) for o in ords )
 
 print(chars)
