@@ -2,7 +2,7 @@
 
 XOR is a bitwise operator which returns 0 if the bits are the same, and 1 otherwise. In textbooks the XOR operator is denoted by ⊕, but in most challenges and programming languages you will see the caret `^` used instead.
 
-![Screenshot 2024-01-01 072935.png](6-XOR%20f326ab4ade834fbd9615a732a8e1cb14/Screenshot_2024-01-01_072935.png)
+![Screenshot 2024-01-01 072935.png](Screenshot_2024-01-01_072935.png)
 
 - For longer binary numbers we XOR bit by bit: `0110 ^ 1010 = 1100`.
 - We can XOR integers by first converting the integer from decimal to binary.
